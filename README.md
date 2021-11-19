@@ -8,9 +8,13 @@ I work as a ~~web designer~~ front-end developer with UI/UX design skills (front
 Since 2009 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 
+
+
 ## - 🌱 I’m currently learning ...💻
 Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
 BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-language starter with CMS](https://github.com/diogorodrigues/iceberg-gatsby-multilang).
+
+
 
 
 
