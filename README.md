@@ -3,20 +3,44 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Nico Esteban!
 
-I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in Dublin, Ireland.
+I'm a Multi-Platform Applications Development student (CFGS Desarrollo de Aplicaciones Multiplataforma) in Spain. I'm currently based in Málaga.
 
-Since 2009 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+I've been always interested in technology and after some years working in tourism industry a couple of years ago I decided to make a change in my carrer and started learning software development.✨😍
 
 
 
 
 ## - 🌱 I’m currently learning ...💻
-Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
-BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-language starter with CMS](https://github.com/diogorodrigues/iceberg-gatsby-multilang).
+I'm mostly focused on improving my knowledge in Java and starting to learn abour Hibernate and Spring.
 
+During 2020/2021 I've also learnt about:
 
+####OBJECT ORIENTED PROGRAMMING
+• Java SE
+• Multi-process & multi-thread programming
+• Java I/O Streams
+• JDBC library
+• Hibernate
+• Graphical user interfaces (JavaFX and Java Swing)
 
+###RELATIONAL AND OBJECT-RELATIONAL DATABASES
+• Database design (ER diagrams)
+• Oracle (SQL queries and PL/SQL language)
 
+###XML DATABASES
+• eXist (XPath & XQuery queries)
+
+###DOCUMENTATION
+• Javadoc
+
+###WEB DESIGN FUNDAMENTALS
+• HTML5 and CSS3
+
+###ERP and CRM
+• Microsoft Dynamics NAV and CRM (C# and C/AL languages)
+
+###ANDROID DEVELOPMENT
+• Fundamentals
 
 ## - 📫 How to reach me ...
 
