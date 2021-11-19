@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm @Nico Esteban!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Nico Esteban!
 
 I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in Dublin, Ireland.
 
@@ -19,8 +19,7 @@ BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-
 ### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃🧾
 
 
-### Find me elsewhere 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)
+### LinkedIn:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/NicoEstebanBorquez)
 
 **[diogorodrigues.dev](https://www.diogorodrigues.dev/)**
