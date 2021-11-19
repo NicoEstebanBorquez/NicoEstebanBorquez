@@ -12,7 +12,7 @@ I'm mostly focused on improving my knowledge in Java and starting to learn abour
 
 During 2020/2021 I've also learnt about:
 
-### OBJECT ORIENTED PROGRAMMING
+#### OBJECT ORIENTED PROGRAMMING
 • Java SE
 • Multi-process & multi-thread programming
 • Java I/O Streams
@@ -20,14 +20,14 @@ During 2020/2021 I've also learnt about:
 • Hibernate
 • Graphical user interfaces (JavaFX and Java Swing)
 
-### RELATIONAL AND OBJECT-RELATIONAL DATABASES
+#### RELATIONAL AND OBJECT-RELATIONAL DATABASES
 • Database design (ER diagrams)
 • Oracle (SQL queries and PL/SQL language)
 
-### XML DATABASES
+#### XML DATABASES
 • eXist (XPath & XQuery queries)
 
-### DOCUMENTATION
+#### DOCUMENTATION
 • Javadoc
 
 #### WEB DESIGN FUNDAMENTALS
@@ -38,6 +38,7 @@ During 2020/2021 I've also learnt about:
 
 ###ANDROID DEVELOPMENT
 • Fundamentals
+
 
 ## - 📫 How to reach me ...
 
