@@ -14,6 +14,7 @@ During 2020/2021 I've also learnt about:
 
 #### OBJECT ORIENTED PROGRAMMING
 • Java SE
+
 • Multi-process & multi-thread programming
 • Java I/O Streams
 • JDBC library
