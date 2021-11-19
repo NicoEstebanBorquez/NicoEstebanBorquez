@@ -2,7 +2,7 @@
 
 I'm a Multi-Platform Applications Development student (CFGS Desarrollo de Aplicaciones Multiplataforma) in Spain. I'm currently based in Málaga.
 
-I've been always interested in technology and after some years working in tourism industry a couple of years ago I decided to make a change in my carrer and started learning software development.✨😍
+I've been always interested in technology and after some years working in tourism industry a couple of years ago I decided to make a change in my carreer and started learning software development.✨😍
 
 
 
