@@ -7,7 +7,7 @@ I've been always interested in technology and after some years working in touris
 
 
 
-## - 🌱 I’m currently learning ...💻
+## - 🌱 I’m currently learning ..
 I'm mostly focused on improving my knowledge in Java and starting to learn abour Hibernate and Spring.
 
 During 2020/2021 I've also learnt about:
@@ -18,11 +18,12 @@ During 2020/2021 I've also learnt about:
 • Java I/O Streams
 • JDBC library
 • Hibernate
-• Graphical user interfaces (JavaFX and Java Swing)
+• JavaFX and Java Swing
 
 #### RELATIONAL AND OBJECT-RELATIONAL DATABASES
 • Database design (ER diagrams)
 • Oracle (SQL queries and PL/SQL language)
+• MySQL
 
 #### XML DATABASES
 • eXist (XPath & XQuery queries)
@@ -36,7 +37,7 @@ During 2020/2021 I've also learnt about:
 #### ERP and CRM
 • Microsoft Dynamics NAV and CRM (C# and C/AL languages)
 
-###ANDROID DEVELOPMENT
+### ANDROID DEVELOPMENT
 • Fundamentals
 
 
