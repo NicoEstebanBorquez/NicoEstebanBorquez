@@ -37,7 +37,7 @@ During 2020/2021 I've also learnt about:
 #### ERP and CRM
 • Microsoft Dynamics NAV and CRM (C# and C/AL languages)
 
-### ANDROID DEVELOPMENT
+#### ANDROID DEVELOPMENT
 • Fundamentals
 
 
