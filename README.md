@@ -15,30 +15,30 @@ During 2020/2021 I've also learnt about:
 #### OBJECT ORIENTED PROGRAMMING
 - Java SE
 - Multi-process & multi-thread programming
-• Java I/O Streams
-• JDBC library
-• Hibernate
-• JavaFX and Java Swing
+- Java I/O Streams
+- JDBC library
+- Hibernate
+- JavaFX and Java Swing
 
 #### RELATIONAL AND OBJECT-RELATIONAL DATABASES
-• Database design (ER diagrams)
-• Oracle (SQL queries and PL/SQL language)
-• MySQL
+- Database design (ER diagrams)
+- Oracle (SQL queries and PL/SQL language)
+- MySQL
 
 #### XML DATABASES
-• eXist (XPath & XQuery queries)
+- eXist (XPath & XQuery queries)
 
 #### DOCUMENTATION
-• Javadoc
+- Javadoc
 
 #### WEB DESIGN FUNDAMENTALS
-• HTML5 and CSS3
+- HTML5 and CSS3
 
 #### ERP and CRM
-• Microsoft Dynamics NAV and CRM (C# and C/AL languages)
+- Microsoft Dynamics NAV and CRM (C# and C/AL languages)
 
 #### ANDROID DEVELOPMENT
-• Fundamentals
+- Fundamentals
 
 
 ## - 📫 How to reach me ...
