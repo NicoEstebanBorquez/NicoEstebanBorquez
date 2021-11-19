@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Nico Esteban](https://www.diogorodrigues.dev/about)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Nico Esteban]!
 
 I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in Dublin, Ireland.
 
