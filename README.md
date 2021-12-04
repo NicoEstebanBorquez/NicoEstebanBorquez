@@ -8,7 +8,7 @@ I've been always interested in technology and after some years working in touris
 
 
 ## - 🌱 I’m currently learning ..
-I'm mostly focused on improving my knowledge in Java and starting to learn abour Hibernate and Spring.
+I'm mostly focused on improving my knowledge in Java and starting to learn about Hibernate and Spring.
 
 During 2020/2021 I've also learnt about:
 
