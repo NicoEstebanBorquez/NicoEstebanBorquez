@@ -28,8 +28,8 @@ During 2020/2021 I've also learnt about:
 #### XML DATABASES
 - eXist (XPath & XQuery queries)
 
-#### DOCUMENTATION
-- Javadoc
+#### DOCUMENTATION AND REPORTING
+- Javadoc and JasperReport (iReport and Jaspersoft Studio)
 
 #### WEB DESIGN FUNDAMENTALS
 - HTML5 and CSS3
